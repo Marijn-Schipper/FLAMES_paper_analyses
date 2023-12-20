@@ -1,0 +1,303 @@
+	ontology	P	Beta	genes_in_set	overlapping_genes
+32	presynaptic membrane (GO:0042734)	1.1617229520401146e-07	1.728170918484947	161	11
+35	integral component of presynaptic membrane (GO:0099056)	9.485428711211726e-07	1.7566847555014207	130	9
+0	synapse (GO:0045202)	1.1280645708057706e-06	0.9061783261749183	1474	40
+189	chemical synaptic transmission (GO:0007268)	1.3329274716394163e-06	1.570531791201355	180	11
+4	presynapse (GO:0098793)	1.3473450748671792e-06	1.095223115381493	691	24
+45	postsynapse (GO:0098794)	3.889790584249522e-06	0.9816549297243126	909	28
+56	postsynaptic specialization (GO:0099572)	5.906789866705237e-06	1.195438105334354	413	17
+81	postsynaptic membrane (GO:0045211)	9.219019211800409e-06	1.5808554043874359	149	9
+223	synapse adhesion between pre- and post-synapse (GO:0099560)	1.1722818011059197e-05	2.130163963356932	45	5
+194	postsynaptic modulation of chemical synaptic transmission (GO:0099170)	1.4693632922646176e-05	2.373043263461068	33	4
+170	trans-synaptic signaling (GO:0099537)	1.6602680707659058e-05	1.3910267051893797	214	11
+169	synaptic signaling (GO:0099536)	2.2530232208124307e-05	1.3673196340693226	222	11
+94	process in the synapse	3.32877692505869e-05	0.8494883703618963	1115	31
+193	postsynaptic process involved in chemical synaptic transmission (GO:0099565)	4.6951389493177834e-05	2.202787335802816	39	4
+61	postsynaptic density (GO:0014069)	4.968103091198186e-05	1.1663648702899458	347	14
+13	extrinsic component of presynaptic active zone membrane (GO:0098891)	5.6210646561433664e-05	5.211452463816829	3	2
+84	integral component of postsynaptic membrane (GO:0099055)	9.491103637163186e-05	1.5659303936097089	119	7
+11	presynaptic active zone membrane (GO:0048787)	0.0002794470432894775	1.7265727776221387	70	5
+9	presynaptic active zone (GO:0048786)	0.0010713780320895576	1.4091667170038604	109	6
+136	regulation of neurotransmitter uptake (GO:0051580)	0.001805876617446915	3.6315366246869667	5	1
+63	postsynaptic density membrane (GO:0098839)	0.0021138671352460402	1.2260175410465932	143	7
+66	integral component of postsynaptic density membrane (GO:0099061)	0.0021790958823912385	1.318565197605598	113	6
+158	regulation of exocytic insertion of neurotransmitter receptor to postsynaptic membrane (GO:0099145)	0.00493338364027539	3.9844224971682314	2	1
+300	regulation of neurotransmitter receptor transport, endosome to postsynaptic membrane (GO:0099152)	0.004933383640275405	3.9844224971682305	2	1
+190	modulation of chemical synaptic transmission (GO:0050804)	0.0056209691802979475	1.2987048549166738	99	5
+95	process in the presynapse	0.010447553380423307	0.8554229436554756	312	10
+191	presynaptic process involved in chemical synaptic transmission (GO:0099531)	0.010711257296523715	1.5462351373130938	48	3
+192	presynaptic modulation of chemical synaptic transmission (GO:0099171)	0.010711257296523715	1.5462351373130938	48	3
+234	regulation of postsynaptic density assembly (GO:0099151)	0.010805213588063469	1.9223430747439711	20	2
+67	postsynaptic specialization of symmetric synapse (GO:0099629)	0.012743372332676122	2.885494850566256	4	1
+14	integral component of presynaptic active zone membrane (GO:0099059)	0.013329329426257603	1.4958052431162108	52	3
+21	synaptic vesicle (GO:0008021)	0.013562368919486978	1.0538699600837624	152	6
+62	postsynaptic density, intracellular component (GO:0099092)	0.014588712532139819	1.4776988955819654	49	3
+135	neurotransmitter reuptake (GO:0098810)	0.016680398763759353	2.5912216907547645	10	1
+100	regulation of presynaptic membrane potential (GO:0099505)	0.016848030193902318	1.445921468797406	48	3
+52	spine apparatus (GO:0097444)	0.01953021787998472	2.55922757889084	8	1
+157	exocytic insertion of neurotransmitter receptor to postsynaptic membrane (GO:0098967)	0.019530217879984733	2.55922757889084	8	1
+119	regulation of synaptic vesicle fusion to presynaptic active zone membrane (GO:0031630)	0.020589298163311166	2.5976550618457166	5	1
+82	anchored component of postsynaptic membrane (GO:0099025)	0.020589298163311166	2.5976550618457166	5	1
+182	trans-synaptic signaling by trans-synaptic complex (GO:0099545)	0.02173124026588336	2.494992692702706	9	1
+118	synaptic vesicle fusion to presynaptic active zone membrane (GO:0031629)	0.030794015290165563	2.3743537693844017	6	1
+233	postsynaptic density assembly (GO:0097107)	0.03131467449905061	1.600763026109738	26	2
+148	regulation of postsynaptic membrane potential (GO:0060078)	0.03304948806036841	1.2812719627679598	60	3
+198	synapse organization (GO:0050808)	0.0370030078021555	0.6641477579765452	424	11
+299	neurotransmitter receptor transport, endosome to postsynaptic membrane (GO:0098887)	0.03936536780282071	2.219938765344574	9	1
+298	neurotransmitter receptor transport, endosome to plasma membrane (GO:0099639)	0.04254282936100683	2.1743258665201397	10	1
+114	regulation of calcium-dependent activation of synaptic vesicle fusion (GO:0150037)	0.04319543290598428	2.191874446557146	7	1
+140	process in the postsynapse	0.04341572155713651	0.7477408134562994	273	8
+116	synaptic vesicle docking (GO:0016081)	0.046448972962748074	2.1467931460362877	8	1
+33	anchored component of presynaptic membrane (GO:0099026)	0.04985186130664333	2.1040667813540535	9	1
+215	structural constituent of active zone (GO:0098882)	0.057589361617692354	2.037565975802538	8	1
+127	synaptic vesicle endocytosis (GO:0048488)	0.05878882069454531	1.130987690693606	71	3
+99	voltage-gated calcium channel activity involved in regulation of presynaptic cytosolic calcium levels (GO:0099626)	0.06134291989197984	1.9993200045535535	9	1
+213	structural constituent of synapse (GO:0098918)	0.08200622170334085	1.2770547606712508	38	2
+237	regulation of synapse disassembly (GO:1905806)	0.08223843642037869	1.8387462748582137	11	1
+236	synapse disassembly (GO:0098883)	0.08223843642037869	1.8387462748582137	11	1
+151	transmitter-gated ion channel activity involved in regulation of postsynaptic membrane potential (GO:1904315)	0.08392218742943704	1.266946940622023	42	2
+265	regulation protein catabolic process at postsynapse (GO:0140252)	0.08632914589535619	1.8003413814584994	15	1
+141	regulation of postsynaptic cytosolic calcium levels (GO:0099566)	0.08663856051317323	1.8079651186581154	12	1
+296	neurotransmitter receptor transport to plasma membrane (GO:0098877)	0.09572707333788753	1.749522406438169	14	1
+65	extrinsic component of postsynaptic density membrane (GO:0099147)	0.09602278155624262	1.756624528141876	11	1
+17	extrinsic component of presynaptic endocytic zone membrane (GO:0098894)	0.09602278155624273	1.7566245281418744	11	1
+214	structural constituent of presynapse (GO:0099181)	0.09602278155624278	1.756624528141875	11	1
+227	presynapse assembly (GO:0099054)	0.10040598734434217	1.7217122182194475	15	1
+231	postsynaptic specialization assembly (GO:0098698)	0.1044785078311804	1.189787470198761	40	2
+60	integral component of postsynaptic specialization membrane (GO:0099060)	0.11104056593184582	1.1662319670354968	43	2
+58	postsynaptic specialization membrane (GO:0099634)	0.13420098535103384	1.0938240401876906	47	2
+264	protein catabolic process at postsynapse (GO:0140249)	0.14068296021162258	1.5296726843791648	20	1
+113	calcium-dependent activation of synaptic vesicle fusion (GO:0099502)	0.15176604789745057	1.4977801467472376	13	1
+221	structural constituent of postsynaptic density (GO:0098919)	0.15176604789745085	1.4977801467472374	13	1
+202	regulation of postsynapse organization (GO:0099175)	0.15404190377111707	1.0381425723757063	55	2
+294	neurotransmitter receptor transport (GO:0099637)	0.16241149379542075	1.4513010685765906	18	1
+272	transport	0.17228217265959167	0.9942020844860796	53	2
+102	voltage-gated ion channel activity involved in regulation of presynaptic membrane potential (GO:0099508)	0.19040244230866787	1.3590591811389958	17	1
+279	dendritic transport (GO:0098935)	0.2017552641681134	1.3220860348328378	19	1
+43	synaptic cleft (GO:0043083)	0.21901366148587242	1.2693364340853355	22	1
+24	anchored component of synaptic vesicle membrane (GO:0098993)	0.22489322120537558	1.2546151402215662	20	1
+16	presynaptic endocytic zone membrane (GO:0098835)	0.22496653860796678	1.2569773052372522	17	1
+261	protein catabolic process at synapse (GO:0140246)	0.2542198123044548	1.1738881852372984	25	1
+69	postsynaptic endocytic zone (GO:0098843)	0.2602488664609788	1.1620865363896555	20	1
+71	postsynaptic endosome (GO:0098845)	0.2661233114009627	1.1451056337323697	24	1
+120	synaptic vesicle priming (GO:0016082)	0.2721638460467233	1.1335875850895907	19	1
+132	presynaptic dense core vesicle exocytosis (GO:0099525)	0.2840277614158785	1.1025558122067134	24	1
+10	presynaptic active zone cytoplasmic component (GO:0098831)	0.2840733293191017	1.1041354685664997	21	1
+201	postsynapse organization (GO:0099173)	0.30771181847414797	0.7384722276775644	75	2
+106	synaptic vesicle cycle (GO:0099504)	0.31721848232127603	0.46156213989202177	221	5
+15	presynaptic endocytic zone (GO:0098833)	0.3200430288202857	1.0236840826008355	21	1
+154	regulation of postsynaptic membrane neurotransmitter receptor levels (GO:0099072)	0.3250736909143608	0.5062981511013147	167	4
+101	ligand-gated ion channel activity involved in regulation of presynaptic membrane potential (GO:0099507)	0.338030362180716	0.9844698933520556	24	1
+23	synaptic vesicle membrane (GO:0030672)	0.34039233586296513	0.564634105590552	121	3
+27	neuronal dense core vesicle (GO:0098992)	0.3437804318107719	0.9670908042094293	40	1
+239	regulation of synapse maturation (GO:0090128)	0.35600782189064695	0.9468725264245483	27	1
+273	axo-dendritic transport (GO:0008088)	0.36199385901737513	0.9346749192888626	28	1
+212	regulation of synapse organization (GO:0050807)	0.36797527861148616	0.9226367955120167	29	1
+217	structural constituent of postsynapse (GO:0099186)	0.37995846189865734	0.899879397665581	28	1
+96	regulation of presynaptic cytosolic calcium levels (GO:0099509)	0.3859229498656932	0.8882510996180653	29	1
+156	regulation of neurotransmitter receptor localization to postsynaptic specialization membrane (GO:0098696)	0.4392818248489977	0.7908252312633571	32	1
+238	synapse maturation (GO:0060074)	0.4859247379620183	0.7116081614508009	34	1
+112	synaptic vesicle exocytosis (GO:0016079)	0.511791565657524	0.47388313037584195	83	2
+205	modification of postsynaptic structure (GO:0099010)	0.7420221606046417	0.3342391093170835	52	1
+204	modification of synaptic structure (GO:0099563)	0.7849380932663397	0.27690808673588413	55	1
+26	integral component of synaptic vesicle membrane (GO:0030285)	0.7942099800763194	0.2646122410649828	57	1
+226	synapse assembly (GO:0007416)	0.8499730374668258	-0.13570172675291836	163	2
+155	neurotransmitter receptor localization to postsynaptic specialization membrane (GO:0099645)	0.9166397803859319	0.10609788986594797	58	1
+249	metabolism	0.9857641770935575	0.018020178965563516	106	1
+291	synaptic vesicle recycling via endosome (GO:0036466)	1.0	0.0	3	0
+186	trans-synaptic signaling by BDNF, modulating synaptic transmission (GO:0099183)	1.0	0.0	6	0
+218	structural constituent of postsynaptic actin cytoskeleton (GO:0098973)	1.0	0.0	6	0
+219	structural constituent of postsynaptic intermediate filament cytoskeleton (GO:0099184)	1.0	0.0	2	0
+216	structural constituent of presynaptic actin cytoskeleton (GO:0098699)	1.0	0.0	1	0
+185	trans-synaptic signalling via exosome (GO:0099157)	1.0	0.0	1	0
+187	regulation of trans-synaptic signaling by BDNF, modulating synaptic transmission (GO:0150035)	1.0	0.0	2	0
+200	regulation of presynapse organization (GO:0099174)	1.0	0.0	2	0
+297	neurotransmitter receptor transport to postsynaptic membrane (GO:0098969)	1.0	0.0	5	0
+203	postsynaptic specialization organization (GO:0099084)	1.0	0.0	4	0
+292	regulation of recycling endosome localization within postsynapse (GO:0099158)	1.0	0.0	1	0
+206	regulation of modification of postsynaptic structure (GO:0099159)	1.0	0.0	19	0
+220	structural constituent of postsynaptic specialization (GO:0098879)	1.0	0.0	3	0
+207	modification of postsynaptic actin cytoskeleton (GO:0098885)	1.0	0.0	26	0
+199	presynapse organization (GO:0099172)	1.0	0.0	2	0
+188	trans-synaptic signaling, modulating synaptic transmission (GO:0099550)	1.0	0.0	7	0
+208	regulation of modification of postsynaptic actin cytoskeleton (GO:1905274)	1.0	0.0	13	0
+210	regulation of modification of synaptic structure (GO:1905244)	1.0	0.0	2	0
+211	regulation of modification of synapse structure, modulating synaptic transmission (GO:0098987)	1.0	0.0	2	0
+197	regulation of synaptic signaling by nitric oxide (GO:0150045)	1.0	0.0	2	0
+195	synaptic signaling via neuropeptide (GO:0099538)	1.0	0.0	8	0
+293	establishment of endoplasmic reticulum localization to postsynapse (GO:0099089)	1.0	0.0	1	0
+295	neurotransmitter receptor transport postsynaptic membrane to endosome (GO:0098968)	1.0	0.0	2	0
+209	modification of synaptic structure, modulating synaptic transmission (GO:0099564)	1.0	0.0	1	0
+196	synaptic signaling by nitric oxide (GO:0099163)	1.0	0.0	3	0
+277	anterograde axonal transport of neurotransmitter receptor complex (GO:0140231)	1.0	0.0	1	0
+290	regulation of anterograde synaptic vesicle transport (GO:1903742)	1.0	0.0	2	0
+256	regulation of protein catabolic process at presynapse, modulating synaptic transmission (GO:0099575)	1.0	0.0	1	0
+257	regulation of translation at synapse, modulating synaptic transmission (GO:0099547)	1.0	0.0	7	0
+258	regulation of translation at postsynapse, modulating synaptic transmission (GO:0099578)	1.0	0.0	3	0
+259	regulation of translation at presynapse, modulating synaptic transmission (GO:0099577)	1.0	0.0	2	0
+260	neurotransmitter catabolic process (GO:0042135)	1.0	0.0	2	0
+285	anterograde dendritic transport of messenger ribonucleoprotein complex (GO:0098964)	1.0	0.0	2	0
+284	dendritic transport of messenger ribonucleoprotein complex (GO:0098963)	1.0	0.0	6	0
+262	protein catabolic process at presynapse (GO:0140247)	1.0	0.0	5	0
+283	dendritic transport of ribonucleoprotein complex (GO:0098961)	1.0	0.0	6	0
+282	dendritic transport of mitochondrion (GO:0098939)	1.0	0.0	1	0
+255	regulation of protein catabolic process at postsynapse, modulating synaptic transmission (GO:0099576)	1.0	0.0	6	0
+263	regulation protein catabolic process at presynapse (GO:0140251)	1.0	0.0	4	0
+266	neurotransmitter biosynthetic process (GO:0042136)	1.0	0.0	2	0
+267	translation at synapse (GO:0140241)	1.0	0.0	56	0
+280	anterograde dendritic transport (GO:0098937)	1.0	0.0	9	0
+268	translation at presynapse (GO:0140236)	1.0	0.0	51	0
+269	translation at postsynapse (GO:0140242)	1.0	0.0	56	0
+270	regulation of translation at postsynapse (GO:0140245)	1.0	0.0	4	0
+271	RNA polyadenylation at postsynapse (GO:0140235)	1.0	0.0	1	0
+274	axonal transport (GO:0098930)	1.0	0.0	10	0
+275	anterograde axonal transport (GO:0008089)	1.0	0.0	6	0
+276	anterograde axonal protein transport (GO:0099641)	1.0	0.0	2	0
+281	anterograde dendritic transport of neurotransmitter receptor complex (GO:0098971)	1.0	0.0	6	0
+254	regulation of protein catabolic process at synapse, modulating synaptic transmission (GO:0099574)	1.0	0.0	8	0
+253	protein catabolic process, modulating synaptic transmission (GO:0099546)	1.0	0.0	1	0
+252	ATP metabolic process in the postsynapse	1.0	0.0	1	0
+224	regulation of synaptic membrane adhesion (GO:0099179)	1.0	0.0	7	0
+225	synaptic target recognition (GO:0008039)	1.0	0.0	3	0
+228	regulation of synapse assembly (GO:0051963)	1.0	0.0	113	0
+289	anterograde synaptic vesicle transport (GO:0048490)	1.0	0.0	4	0
+229	regulation of presynapse assembly (GO:1905606)	1.0	0.0	31	0
+230	regulation of postsynapse assembly (GO:0150052)	1.0	0.0	62	0
+278	axonal transport of messenger ribonucleoprotein complex (GO:0099088)	1.0	0.0	1	0
+232	regulation of postsynaptic specialization assembly (GO:0099150)	1.0	0.0	9	0
+288	synaptic vesicle transport along microtubule (GO:0099517)	1.0	0.0	4	0
+235	postsynaptic membrane assembly (GO:0097104)	1.0	0.0	1	0
+240	maintenance of synapse structure (GO:0099558)	1.0	0.0	23	0
+287	synaptic vesicle cytoskeletal transport (GO:0099514)	1.0	0.0	4	0
+241	maintenance of alignment of postsynaptic density and presynaptic active zone (GO:0099559)	1.0	0.0	4	0
+242	maintenance of postsynaptic specialization structure (GO:0098880)	1.0	0.0	13	0
+184	trans-synaptic signaling by trans-synaptic complex, modulating synaptic transmission (GO:0099557)	1.0	0.0	2	0
+244	presynaptic cytoskeleton organization (GO:0099187)	1.0	0.0	9	0
+245	presynaptic actin cytoskeleton organization (GO:0099140)	1.0	0.0	8	0
+246	postsynaptic cytoskeleton organization (GO:0099188)	1.0	0.0	27	0
+247	postsynaptic actin cytoskeleton organization (GO:0098974)	1.0	0.0	21	0
+248	postsynaptic spectrin-associated cytoskeleton organization (GO:0099190)	1.0	0.0	4	0
+250	ATP metabolic process in the presynapse	1.0	0.0	1	0
+286	retrograde dendritic transport (GO:0098934)	1.0	0.0	1	1
+251	regulation of ATP metabolic process in the presynapse	1.0	0.0	1	0
+222	structural constituent of synapse-associated extracellular matrix (GO:0150043)	1.0	0.0	1	0
+243	maintenance of postsynaptic density structure (GO:0099562)	1.0	0.0	6	0
+150	G protein-coupled neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential (GO:0099579)	1.0	0.0	4	0
+181	retrograde trans-synaptic signaling by nitric oxide, modulating synaptic transmission (GO:0098925)	1.0	0.0	1	0
+50	postsynaptic septin cytoskeleton (GO:0150050)	1.0	0.0	1	0
+51	postsynaptic spectrin-associated cytoskeleton (GO:0099189)	1.0	0.0	1	0
+53	spine apparatus membrane (GO:0098897)	1.0	0.0	2	0
+54	integral component of spine apparatus membrane (GO:0099065)	1.0	0.0	2	0
+55	postsynaptic Golgi apparatus (GO:0150051)	1.0	0.0	4	0
+57	postsynaptic specialization, intracellular component (GO:0099091)	1.0	0.0	11	0
+59	extrinsic component of postsynaptic specialization membrane (GO:0098892)	1.0	0.0	2	0
+64	anchored component of postsynaptic density membrane (GO:0099031)	1.0	0.0	11	0
+68	postsynaptic specialization membrane of symmetric synapse (GO:0099164)	1.0	0.0	1	0
+70	postsynaptic endocytic zone membrane (GO:0098844)	1.0	0.0	2	0
+72	postsynaptic endosome membrane (GO:0098895)	1.0	0.0	3	0
+73	extrinsic component of postsynaptic endosome membrane (GO:0098999)	1.0	0.0	1	0
+74	postsynaptic early endosome (GO:0098842)	1.0	0.0	5	0
+75	postsynaptic early endosome membrane (GO:0098896)	1.0	0.0	1	0
+76	extrinsic component of postsynaptic early endosome membrane (GO:0098998)	1.0	0.0	1	0
+77	postsynaptic recycling endosome (GO:0098837)	1.0	0.0	11	0
+78	postsynaptic recycling endosome membrane (GO:0098944)	1.0	0.0	7	0
+79	anchored component of postsynaptic recycling endosome membrane (GO:0099033)	1.0	0.0	2	0
+80	integral component of postsynaptic recycling endosome membrane (GO:0099063)	1.0	0.0	2	0
+83	extrinsic component of postsynaptic membrane (GO:0098890)	1.0	0.0	12	0
+85	postsynaptic ribosome	1.0	0.0	70	0
+86	postsynaptic ER	1.0	0.0	9	0
+87	postsynaptic ER membrane	1.0	0.0	2	0
+88	integral component of postsynaptic ER membrane	1.0	0.0	2	0
+89	postsynaptic SER	1.0	0.0	4	0
+49	postsynaptic actin cytoskeleton (GO:0098871)	1.0	0.0	21	0
+48	postsynaptic intermediate filament cytoskeleton (GO:0099160)	1.0	0.0	3	0
+47	postsynaptic cytoskeleton (GO:0099571)	1.0	0.0	26	0
+46	postsynaptic cytosol (GO:0099524)	1.0	0.0	51	0
+1	synaptic membrane (GO:0097060)	1.0	0.0	26	0
+2	extrinsic component of synaptic membrane (GO:0099243)	1.0	0.0	2	0
+3	integral component of synaptic membrane (GO:0099699)	1.0	0.0	19	0
+5	presynaptic cytosol (GO:0099523)	1.0	0.0	53	0
+6	presynaptic cytoskeleton (GO:0099569)	1.0	0.0	5	0
+7	presynaptic intermediate filament cytoskeleton (GO:0099182)	1.0	0.0	1	0
+8	presynaptic actin cytoskeleton (GO:0099143)	1.0	0.0	2	0
+12	anchored component of presynaptic active zone membrane (GO:0099029)	1.0	0.0	8	0
+18	presynaptic endosome (GO:0098830)	1.0	0.0	13	0
+19	presynaptic endosome membrane (GO:0098954)	1.0	0.0	2	0
+20	integral component of presynaptic endosome membrane (GO:0099067)	1.0	0.0	2	0
+22	synaptic vesicle lumen (GO:0034592)	1.0	0.0	1	0
+90	postsynaptic SER membrane	1.0	0.0	1	0
+25	extrinsic component of synaptic vesicle membrane (GO:0098850)	1.0	0.0	25	0
+29	neuronal dense core vesicle membrane (GO:0099012)	1.0	0.0	6	0
+30	extrinsic component of neuronal dense core vesicle membrane (GO:0098674)	1.0	0.0	2	0
+31	integral component of neuronal dense core vesicle membrane (GO:0099066)	1.0	0.0	4	0
+34	extrinsic component of presynaptic membrane (GO:0098888)	1.0	0.0	8	0
+36	presynaptic ribosome	1.0	0.0	52	0
+37	presynaptic ER	1.0	0.0	4	0
+38	presynaptic ER membrane	1.0	0.0	1	0
+39	integral component of presynaptic ER membrane	1.0	0.0	1	0
+40	presynaptic SER	1.0	0.0	2	0
+41	presynaptic SER membrane	1.0	0.0	2	0
+42	integral component of presynaptic SER membrane	1.0	0.0	1	0
+44	extracellular matrix of synaptic cleft (GO:0098965)	1.0	0.0	5	0
+28	neuronal dense core vesicle lumen (GO:0099013)	1.0	0.0	8	0
+91	integral component of postsynaptic SER membrane	1.0	0.0	1	0
+92	extrasynaptic space (GO:0099544)	1.0	0.0	7	0
+93	perisynaptic extracellular matrix (GO:0098966)	1.0	0.0	6	0
+145	inositol 1,4,5-trisphosphate receptor activity involved in regulation of postsynaptic cytosolic calcium levels (GO:0098695)	1.0	0.0	1	0
+146	neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium levels (GO:0099583)	1.0	0.0	1	1
+147	G-protein coupled neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium levels (GO:0098872)	1.0	0.0	1	1
+149	intracellular cAMP-activated cation channel activity involved in regulation of postsynaptic membrane potential (GO:0140233)	1.0	0.0	4	0
+152	voltage-gated ion channel activity involved in regulation of postsynaptic membrane potential (GO:1905030)	1.0	0.0	5	0
+153	regulation of postsynaptic neurotransmitter receptor activity (GO:0098962)	1.0	0.0	22	0
+159	postsynaptic neurotransmitter receptor diffusion trapping (GO:0098970)	1.0	0.0	8	0
+160	regulation of postsynaptic neurotransmitter receptor diffusion trapping (GO:0150054)	1.0	0.0	5	0
+161	postsynaptic neurotransmitter receptor endocytosis (GO:0098884)	1.0	0.0	54	0
+162	regulation of postsynaptic neurotransmitter receptor endocytosis (GO:0099149)	1.0	0.0	43	0
+163	postsynaptic endocytosis (GO:0140239)	1.0	0.0	1	0
+164	postsynaptic dense core vesicle exocytosis (GO:0150038)	1.0	0.0	2	0
+144	calcium:cation antiporter activity involved in regulation of postsynaptic cytosolic calcium ion levels (GO:1905060)	1.0	0.0	3	0
+165	regulation of postsynaptic dense core vesicle exocytosis (GO:0150044)	1.0	0.0	1	0
+167	postsynapse to nucleus signaling pathway (GO:0099527)	1.0	0.0	16	0
+168	regulation of postsynapse to nucleus signaling pathway (GO:1905539)	1.0	0.0	2	0
+171	trans-synaptic signaling by lipid (GO:0099541)	1.0	0.0	11	0
+172	trans-synaptic signaling by endocannabinoid (GO:0099542)	1.0	0.0	11	0
+173	retrograde trans-synaptic signaling by endocannabinoid (GO:0098921)	1.0	0.0	6	0
+174	regulation of retrograde trans-synaptic signaling by endocanabinoid (GO:0099178)	1.0	0.0	3	0
+175	trans-synaptic signaling by endocannabinoid, modulating synaptic transmission (GO:0099553)	1.0	0.0	5	0
+176	regulation of trans-synaptic signaling by endocannabinoid, modulating synaptic transmission (GO:0150036)	1.0	0.0	4	0
+177	trans-synaptic signaling by neuropeptide (GO:0099540)	1.0	0.0	1	0
+178	trans-synaptic signaling by soluble gas (GO:0099543)	1.0	0.0	1	0
+179	trans-synaptic signaling by nitric oxide (GO:0099548)	1.0	0.0	1	0
+180	trans-synaptic signaling by nitric oxide, modulating synaptic transmission (GO:0099555)	1.0	0.0	1	0
+166	postsynaptic signaling pathway (GO:0098926)	1.0	0.0	18	0
+183	retrograde trans-synaptic signaling by trans-synaptic protein complex (GO:0098942)	1.0	0.0	4	0
+143	calcium ion binding involved in regulation of postsynaptic cytosolic calcium levels (GO:0099567)	1.0	0.0	1	0
+139	presynapse to nucleus signaling pathway (GO:0099526)	1.0	0.0	1	0
+97	ATPase-coupled calcium ion transmembrane transporter activity involved in regulation of presynaptic cytosolic calcium levels (GO:1905056)	1.0	0.0	1	0
+98	calcium ion binding involved in regulation of presynaptic cytosolic calcium levels (GO:0099534)	1.0	0.0	2	0
+103	G protein-coupled neurotransmitter receptor activity involved in regulation of presynaptic membrane potential (GO:0150047)	1.0	0.0	5	0
+104	intracellular cAMP-activated cation channel activity involved in regulation of presynaptic membrane potential (GO:0140232)	1.0	0.0	1	1
+105	presynaptic endocytosis (GO:0140238)	1.0	0.0	6	0
+107	regulation of synaptic vesicle cycle (GO:0098693)	1.0	0.0	21	0
+108	synaptic vesicle clustering (GO:0097091)	1.0	0.0	8	0
+109	synaptic vesicle endosomal processing (GO:0099532)	1.0	0.0	13	0
+110	synaptic vesicle budding from endosome (GO:0016182)	1.0	0.0	4	0
+111	synaptic vesicle to endosome fusion (GO:0016189)	1.0	0.0	5	0
+115	regulation of synaptic vesicle exocytosis (GO:2000300)	1.0	0.0	37	0
+117	regulation of synaptic vesicle docking (GO:0099148)	1.0	0.0	3	0
+142	ATPase-coupled calcium ion transmembrane transporter activity involved in regulation of postsynaptic cytosolic calcium levels (GO:1905059)	1.0	0.0	1	0
+121	regulation of synaptic vesicle priming (GO:0010807)	1.0	0.0	7	0
+123	regulation of synaptic vesicle neurotransmitter loading (GO:0099162)	1.0	0.0	2	0
+124	zinc ion import into synaptic vesicle (GO:0099180)	1.0	0.0	2	0
+125	synaptic vesicle proton loading (GO:0097401)	1.0	0.0	20	0
+126	regulation of proton loading (GO:1901546)	1.0	0.0	2	0
+128	regulation of synaptic vesicle endocytosis (GO:1900242)	1.0	0.0	24	0
+129	synaptic vesicle budding from presynaptic endocytic zone membrane (GO:0016185)	1.0	0.0	1	0
+130	regulation of synaptic vesicle budding from presynaptic endocytic zone membrane (GO:0098694)	1.0	0.0	1	0
+131	synaptic vesicle uncoating (GO:0016191)	1.0	0.0	3	0
+133	regulation of presynaptic dense core vesicle exocytosis (GO:0099161)	1.0	0.0	11	0
+134	neurotransmitter uptake (GO:0001504)	1.0	0.0	6	0
+137	presynaptic chaperone-mediated protein folding	1.0	0.0	3	0
+138	presynaptic signaling pathway (GO:0098928)	1.0	0.0	2	0
+122	synaptic vesicle neurotransmitter loading (GO:0098700)	1.0	0.0	9	0
+301	neurotransmitter receptor transport, postsynaptic endosome to lysosome (GO:0098943)	1.0	0.0	2	0

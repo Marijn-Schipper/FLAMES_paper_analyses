@@ -1,0 +1,16 @@
+structure_acronym	structure_name	structure_id	expression
+DFC	dorsolateral prefrontal cortex	10173	0.4677588029839314
+ITC	inferolateral temporal cortex (area TEv, area 20)	10252	0.5463056279241687
+VFC	ventrolateral prefrontal cortex	10185	0.6904505284270249
+MD	mediodorsal nucleus of thalamus	10398	0.4289455050857311
+AMY	amygdaloid complex	10361	0.49174846645249515
+A1C	primary auditory cortex (core)	10236	0.4176443048494911
+CBC	cerebellar cortex	10657	0.3880006588132293
+V1C	primary visual cortex (striate cortex, area V1/17)	10269	0.6322567814234611
+OFC	orbital frontal cortex	10194	0.6909593722651997
+STC	posterior (caudal) superior temporal cortex (area 22c)	10243	0.6655372098441878
+IPC	posteroventral (inferior) parietal cortex	10225	0.6867693821365021
+M1C	primary motor cortex (area M1, area 4)	10163	0.38259334054203525
+HIP	hippocampus (hippocampal formation)	10294	0.4466114671206813
+STR	striatum	10333	0.5823756407862566
+S1C	primary somatosensory cortex (area S1, areas 3,1,2)	10209	0.45445579088189236
