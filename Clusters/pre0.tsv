@@ -1,17 +1,17 @@
 structure_acronym	structure_name	structure_id	expression
-Ocx	occipital neocortex	10268	1.4198406901006695
-M1C-S1C	primary motor-sensory cortex (samples)	10291	1.7580847901397387
-AMY	amygdaloid complex	10361	1.4755367441539038
-MGE	medial ganglionic eminence	10550	1.842858488883503
-STC	posterior (caudal) superior temporal cortex (area 22c)	10243	1.4935918593774684
-URL	upper (rostral) rhombic lip	10665	1.2575648929579266
-CGE	caudal ganglionic eminence	10552	1.9392061885938767
-DTH	dorsal thalamus	10391	1.1432268707681834
-MFC	anterior (rostral) cingulate (medial prefrontal) cortex	10278	1.358295095574333
-DFC	dorsolateral prefrontal cortex	10173	1.2411383850555724
-OFC	orbital frontal cortex	10194	1.0574257511757865
-LGE	lateral ganglionic eminence	10551	1.9198930345960619
-ITC	inferolateral temporal cortex (area TEv, area 20)	10252	1.498865964784425
-HIP	hippocampus (hippocampal formation)	10294	1.2771677580254495
-VFC	ventrolateral prefrontal cortex	10185	1.4098759612642449
-PCx	parietal neocortex	10208	1.5570673265951103
+Ocx	occipital neocortex	10268	0.47249736184891444
+M1C-S1C	primary motor-sensory cortex (samples)	10291	0.5824094594337399
+AMY	amygdaloid complex	10361	0.6100201335622178
+MGE	medial ganglionic eminence	10550	0.5724573119846313
+STC	posterior (caudal) superior temporal cortex (area 22c)	10243	0.6310898905608453
+URL	upper (rostral) rhombic lip	10665	0.9200013012331075
+CGE	caudal ganglionic eminence	10552	0.54720186963667
+DTH	dorsal thalamus	10391	0.607419702244372
+MFC	anterior (rostral) cingulate (medial prefrontal) cortex	10278	0.5068375329776922
+DFC	dorsolateral prefrontal cortex	10173	0.45069705409616095
+OFC	orbital frontal cortex	10194	0.5994503418129813
+LGE	lateral ganglionic eminence	10551	0.6072800999789261
+ITC	inferolateral temporal cortex (area TEv, area 20)	10252	0.6636910245641073
+HIP	hippocampus (hippocampal formation)	10294	0.592883858900813
+VFC	ventrolateral prefrontal cortex	10185	0.5049176336073227
+PCx	parietal neocortex	10208	0.5221060386329115

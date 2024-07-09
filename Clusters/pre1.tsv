@@ -1,17 +1,17 @@
 structure_acronym	structure_name	structure_id	expression
-Ocx	occipital neocortex	10268	0.475940882521743
-M1C-S1C	primary motor-sensory cortex (samples)	10291	0.5734986125450664
-AMY	amygdaloid complex	10361	0.6051363588738615
-MGE	medial ganglionic eminence	10550	0.5560261664624778
-STC	posterior (caudal) superior temporal cortex (area 22c)	10243	0.6271734752293293
-URL	upper (rostral) rhombic lip	10665	0.9299165917231944
-CGE	caudal ganglionic eminence	10552	0.5338442332573624
-DTH	dorsal thalamus	10391	0.61567375003181
-MFC	anterior (rostral) cingulate (medial prefrontal) cortex	10278	0.5082854550111962
-DFC	dorsolateral prefrontal cortex	10173	0.4553958021617927
-OFC	orbital frontal cortex	10194	0.592076728724934
-LGE	lateral ganglionic eminence	10551	0.5991556246682375
-ITC	inferolateral temporal cortex (area TEv, area 20)	10252	0.6672874054543713
-HIP	hippocampus (hippocampal formation)	10294	0.5876205458496162
-VFC	ventrolateral prefrontal cortex	10185	0.50732126730724
-PCx	parietal neocortex	10208	0.5226823601681094
+Ocx	occipital neocortex	10268	1.4241618226030162
+M1C-S1C	primary motor-sensory cortex (samples)	10291	1.741043105081463
+AMY	amygdaloid complex	10361	1.572787969463034
+MGE	medial ganglionic eminence	10550	1.9908229298315232
+STC	posterior (caudal) superior temporal cortex (area 22c)	10243	1.5092180828605448
+URL	upper (rostral) rhombic lip	10665	1.2980827022446861
+CGE	caudal ganglionic eminence	10552	2.1060007802042495
+DTH	dorsal thalamus	10391	1.2662367375627999
+MFC	anterior (rostral) cingulate (medial prefrontal) cortex	10278	1.3436931575852307
+DFC	dorsolateral prefrontal cortex	10173	1.264646168246763
+OFC	orbital frontal cortex	10194	1.1594871470240877
+LGE	lateral ganglionic eminence	10551	2.0564841557339015
+ITC	inferolateral temporal cortex (area TEv, area 20)	10252	1.5769590080058096
+HIP	hippocampus (hippocampal formation)	10294	1.3157688814929211
+VFC	ventrolateral prefrontal cortex	10185	1.4741802414324638
+PCx	parietal neocortex	10208	1.5355911802375743
